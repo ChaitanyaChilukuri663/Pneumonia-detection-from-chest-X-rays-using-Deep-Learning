@@ -1,5 +1,5 @@
 Flask==2.0.2
-numpy==1.21.2
+numpy==numpy==1.19.5
 keras==2.6.0
 tensorflow==2.6.0
 python-json-logger==2.0.7
