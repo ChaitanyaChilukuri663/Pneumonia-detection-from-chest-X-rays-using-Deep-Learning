@@ -13,7 +13,7 @@ blinker==1.4
 cachetools==5.2.1
 certifi==2023.11.17
 cffi==1.14.6
-charset-normalizer==2.4.0
+charset-normalizer
 click==8.0.1
 colorama==0.4.4
 comm==0.1.1
