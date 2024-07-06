@@ -1,4 +1,2 @@
 Flask
-keras
-tensorflow
 opencv-python
